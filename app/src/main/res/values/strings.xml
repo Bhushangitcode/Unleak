@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Unleak</string>
+
+    <!-- Strings for On Boarding Screen -->
+    <!--Titles-->
+    <string name="first_slide_title">Reverse Permissions</string>
+    <string name="second_slide_title">Malware and Trojan Check</string>
+    <string name="third_slide_title">Security Score</string>
+    <string name="fourth_slide_title">Track App Usage</string>
+    <string name="fifth_slide_title">Welcome to Unleak</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">Unleak allows you to reverse permissions accessed by third-party apps. See which apps are accessing your SMS, call logs, camera, and pictures, and take control. </string>
+    <string name="second_slide_desc">Stay safe from harmful software. Unleak checks for malware and Trojans on your device, ensuring your data safety. </string>
+    <string name="third_slide_desc">Get an overall security score for your mobile phone. Unleak analyzes your devices security and gives you a comprehensive score.</string>
+    <string name="fourth_slide_desc">Know your apps better. Track the screen time and data usage of each app on your device with Unleak. </string>
+    <string name="fifth_slide_desc">We will handle everything for you. As you have the app in your pocket then you do not have to worry about anything.</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+    <!-- Strings for OnBoarding Screen End -->
+
+</resources>
